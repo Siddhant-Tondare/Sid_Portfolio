@@ -44,10 +44,10 @@ Perform the following steps:
 **6.	Plot box plot for the new dataset to find the variables with outliers**
 
    
-   ![Heatmap](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Correlation%20Heatmap.png)
+   ![Heatmap](/images/Correlation%20Heatmap.png)
    
    
    
-   ![Countplot](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Countplot.png)
+   ![Countplot](/images/Countplot.png)
     
    
