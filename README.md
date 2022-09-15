@@ -27,7 +27,7 @@ Perform the following steps:
     
     b.	Identify the skewness and distribution
     
-    c.	Identify significant variables using a correlation matrix 
+    c.	Identify significant variables using a correlation matrix
     
     d.	Pair plot for distribution and density
     
@@ -36,13 +36,18 @@ Perform the following steps:
     a.	Missing value treatment
     
     b.	Count plot and box plot for bivariate analysis
-    
+   
     c.	Identify significant variables using p-values and Chi-Square values
     
 **5.	Combine all the significant categorical and numerical variables**
 
 **6.	Plot box plot for the new dataset to find the variables with outliers**
 
-   ![alt text](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Correlation%20Heatmap.png)
    
-   ![alt text](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Countplot.png)
+   ![Heatmap](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Correlation%20Heatmap.png)
+   
+   
+   
+   ![Countplot](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/images/Countplot.png)
+    
+   
