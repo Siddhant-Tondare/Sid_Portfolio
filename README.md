@@ -1,5 +1,4 @@
-# Sid_portfolio
-Data Science Portfolio
+# Siddhant's Data Science Portfolio
 # Project 1  :- Feature Engineering
 
 ## **Project Statement:**
