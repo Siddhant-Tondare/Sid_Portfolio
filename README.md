@@ -1,4 +1,27 @@
 # Siddhant's Data Science Portfolio
+
+
+## Contents
+
+- ### Machine Learning
+
+	- [Mercedes-Benz Greener Manufacturing
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Mercedes-Benz%20Greener%20Manufacturing.ipynb): A model to Reduce the time a Mercedes-Benz spends on the test bench.
+
+
+
+- ### Deep Learning
+
+	- [House Loan Data Analysis
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/House%20Loan%20Data%20Analysis.ipynb): Aim To Create a model that predicts whether or not an applicant will be able to repay a loan using historical data.
+
+
+
+
+
+
+
+
 # Project 1  :- Feature Engineering
 
 ## **Project Statement:**
