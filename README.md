@@ -1,5 +1,7 @@
 # Siddhant's Data Science Portfolio
 
+#### MY Linked in Profile located [here](https://www.linkedin.com/in/siddhant-tondare-14285822a).
+
 
 ## Contents
 
