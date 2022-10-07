@@ -8,17 +8,21 @@
 	- [Mercedes-Benz Greener Manufacturing
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Mercedes-Benz%20Greener%20Manufacturing.ipynb): A model to Reduce the time a Mercedes-Benz spends on the test bench.
 
-
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy_ 
 
 - ### Deep Learning
 
 	- [House Loan Data Analysis
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/House%20Loan%20Data%20Analysis.ipynb): Aim To Create a model that predicts whether or not an applicant will be able to repay a loan using historical data.
 
+	_Tools: Keras, Tensorflow, Pytorch, NLTK, scikit_
 
+- ### Data Analysis and Visualisation
+	- __Python__
+		- [Feature Engineering
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Feature%20Engineering.ipynb): Exploratory Data Analysis , Data Cleaning , Data Sorting And Data Wrangling.
 
-
-
+	_Tools: Pandas, Numpy , scipy , Matplotlib , Seaborn_
 
 
 
