@@ -39,7 +39,10 @@
 
 	_Tools: Pandas, Numpy , scipy , Matplotlib , Seaborn_
 
-
+- ### Micro Project
+	- __Python__
+		- [ML_KMeans
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Micro%20Projects/ML_KMeans.ipynb): Using Kmeans clustring to classify instances from a driver dataset into five different clusters , while ploting using lmplots.
 
 # Project 1  :- Feature Engineering
 
