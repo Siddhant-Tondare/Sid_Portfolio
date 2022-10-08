@@ -1,6 +1,10 @@
 # Siddhant's Data Science Portfolio
 
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+
 #### MY Linked in Profile located [here](https://www.linkedin.com/in/siddhant-tondare-14285822a).
+
+#### The Tableau portfolio is located [here](https://public.tableau.com/views/Book1_16585103320750/FirstDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 
 ## Contents
@@ -89,13 +93,41 @@ Perform the following steps:
 
    
    ![Heatmap](/images/Correlation%20Heatmap.png)
-                                                    
-                                                    
-                                                    
-                                                    
-   
-   
    
    ![Countplot](/images/Countplot.png)
-    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![Tableau Dashboard](/images/First Dashboard.png)
    
