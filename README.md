@@ -92,6 +92,8 @@ Perform the following steps:
 **6.	Plot box plot for the new dataset to find the variables with outliers**
 
    
+   
+   
    ![Heatmap](/images/Correlation%20Heatmap.png)
    
    ![Countplot](/images/Countplot.png)
