@@ -96,38 +96,5 @@ Perform the following steps:
    
    ![Countplot](/images/Countplot.png)
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  ![Tableau Dashboard](/images/First Dashboard.png)
+   ![Tableau Dashboard](/images/First%20Dashboard.png)
    
