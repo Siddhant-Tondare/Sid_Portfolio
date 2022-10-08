@@ -17,6 +17,9 @@
 	- [House Loan Data Analysis
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/House%20Loan%20Data%20Analysis.ipynb): Aim To Create a model that predicts whether or not an applicant will be able to repay a loan using historical data.
 
+	- [Fuel_Efficiency
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Fuel_Efficiency.ipynb): Aim is to predict the output of a continuous value, like a price or a probability. Contrast this with a classification problem, where the aim is to select a class from a list of classes
+
 	_Tools: Keras, Tensorflow, Pytorch, NLTK, scikit_
 
 - ### Data Analysis and Visualisation
