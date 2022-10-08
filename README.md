@@ -90,10 +90,7 @@ Perform the following steps:
 **5.	Combine all the significant categorical and numerical variables**
 
 **6.	Plot box plot for the new dataset to find the variables with outliers**
-
-   
-   
-   
+  
    ![Heatmap](/images/Correlation%20Heatmap.png)
    
    ![Countplot](/images/Countplot.png)
