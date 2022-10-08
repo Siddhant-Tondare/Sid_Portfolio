@@ -98,3 +98,5 @@ Perform the following steps:
    
    ![Tableau Dashboard](/images/First%20Dashboard.png)
    
+   <img src="/images/First%20Dashboard.png">
+   
