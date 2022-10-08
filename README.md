@@ -27,6 +27,16 @@
 		- [Feature Engineering
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Feature%20Engineering.ipynb): Exploratory Data Analysis , Data Cleaning , Data Sorting And Data Wrangling.
 
+		- [Retail Analysis with Walmart Data
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Micro%20Projects/Retail%20Analysis%20with%20Walmart%20Data.ipynb): Exploratory Data Analysis , Data Cleaning ,Linear model building  And Data visualisation.
+
+
+		- [IBM_Employee_Attrition_Prediction
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Micro%20Projects/IBM_Employee_Attrition_Prediction.ipynb): Exploratory Data Analysis , Data Cleaning , Data Sorting And Data visualisation.
+
+		- [Comcast telecom complaints data
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Micro%20Projects/Comcast%20telecom%20complaints%20data.ipynb): Exploratory Data Analysis , Data Cleaning , Data Sorting And Data Visualisation.
+
 	_Tools: Pandas, Numpy , scipy , Matplotlib , Seaborn_
 
 
