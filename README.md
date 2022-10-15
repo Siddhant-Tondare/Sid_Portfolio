@@ -14,6 +14,9 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Mercedes-Benz Greener Manufacturing
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Mercedes-Benz%20Greener%20Manufacturing.ipynb): A model to Reduce the time a Mercedes-Benz spends on the test bench.
 
+	- [Income Qualification
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/95993cc26ac369be697a9e48fb9eec56a1f1da4c/ML_Projects/Income_Qualification.ipynb): A model to Identify the level of income qualification needed for the families in Latin America.
+
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy_ 
 
 - ### Deep Learning
