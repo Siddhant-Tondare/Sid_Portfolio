@@ -45,6 +45,15 @@ Repository containing portfolio of data science projects completed by me for aca
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Healthcare%20Dashboard.png)
 
 
+- ### SQL Projects
+
+	- [Air Cargo Analysis
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/SQL%20Projects/AIR_CARGO_ANALYSIS.pdf)
+
+	- [Employee Performance Mapping
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/SQL%20Projects/SQL_Project1.pdf)
+
+
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Feature Engineering
