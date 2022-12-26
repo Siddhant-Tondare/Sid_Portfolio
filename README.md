@@ -29,6 +29,15 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	_Tools: Keras, Tensorflow, Pytorch, NLTK, scikit_
 
+- ### Capstone Projects
+
+	- [Real Estate
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Real_Estate.ipynb): Aim :- A banking institution requires actionable insights into mortgage-backed securities, geographic business investment, and real estate analysis.
+
+	- [Health Care
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Healthcare.ipynb): Aim :- Build a model to accurately predict whether the patients in the dataset have diabetes or not.
+
+
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Feature Engineering
