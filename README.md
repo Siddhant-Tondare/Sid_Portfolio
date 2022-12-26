@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 #### MY Linked in Profile located [here](https://www.linkedin.com/in/siddhant-tondare-14285822a).
 
-#### The Tableau portfolio is located [here](https://public.tableau.com/views/Book1_16585103320750/FirstDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+#### The Tableau portfolio is located [here](https://public.tableau.com/app/profile/siddhant4987).
 
 
 ## Contents
@@ -51,48 +51,6 @@ Repository containing portfolio of data science projects completed by me for aca
 		- [ML_KMeans
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Micro%20Projects/ML_KMeans.ipynb): Using Kmeans clustring to classify instances from a driver dataset into five different clusters , while ploting using lmplots.
 
-# Project 1  :- Feature Engineering
-
-## **Project Statement:**
-
-While searching for the dream house, the buyer looks at various factors, not just at the height of the basement ceiling or the proximity to an east-west railroad.
-Using the dataset, find the factors that influence price negotiations while buying a house.
-There are 79 explanatory variables describing every aspect of residential homes in Ames, Iowa.
-
-
-Perform the following steps:
-
-**1. Understand the dataset:**
-
-    a. Identify the shape of the dataset
-    
-    b. Identify variables with null values
-    
-    c. Identify variables with unique values
-    
-**2.	Generate a separate dataset for numerical and categorical variables**
-
-**3.	EDA of numerical variables:**
-
-    a.	Missing value treatment
-    
-    b.	Identify the skewness and distribution
-    
-    c.	Identify significant variables using a correlation matrix
-    
-    d.	Pair plot for distribution and density
-    
-**4.	EDA of categorical variables**
-
-    a.	Missing value treatment
-    
-    b.	Count plot and box plot for bivariate analysis
-   
-    c.	Identify significant variables using p-values and Chi-Square values
-    
-**5.	Combine all the significant categorical and numerical variables**
-
-**6.	Plot box plot for the new dataset to find the variables with outliers**
 
   
    ![Heatmap](/images/Correlation%20Heatmap.png)
