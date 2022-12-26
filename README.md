@@ -69,9 +69,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
   
-   ![Heatmap](/images/Correlation%20Heatmap.png)
+   ![Healthcare](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Healthcare%20Dashboard.png)
    
-   ![Countplot](/images/Countplot.png)
+   ![Real Estate](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Real%20Estate%20Dashboard.png)
    
    ![Tableau Dashboard](/images/First%20Dashboard.png)
    
