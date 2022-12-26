@@ -41,6 +41,9 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Health Care
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Healthcare.ipynb): Aim :- Build a model to accurately predict whether the patients in the dataset have diabetes or not.
 
+	 [ Tableau Dashboard Healthcare
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Capstone%20Projects/Healthcare%20Dashboard.png)
+
 
 - ### Data Analysis and Visualisation
 	- __Python__
