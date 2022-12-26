@@ -54,6 +54,16 @@ Repository containing portfolio of data science projects completed by me for aca
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/SQL%20Projects/SQL_Project1.pdf)
 
 
+- ### Tableau Projects And Dashboards
+
+	- [Comparative Study of Countries
+](https://public.tableau.com/app/profile/siddhant4987/viz/ComparativeStudyOfCoutries/ComparativeStudyOfCountries)
+
+	- [Comparision Of Region Based On Sales
+](https://public.tableau.com/app/profile/siddhant4987/viz/ComparisionOfRegionBasedOnSales/SalesComparisionByRegion)
+
+
+
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Feature Engineering
