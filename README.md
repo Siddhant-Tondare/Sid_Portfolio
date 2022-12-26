@@ -59,6 +59,6 @@ Repository containing portfolio of data science projects completed by me for aca
    
    ![Tableau Dashboard](/images/First%20Dashboard.png)
    
-   <img src="/images/First%20Dashboard.png" width="1000">
+ 
    
 
