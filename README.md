@@ -17,6 +17,9 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Income Qualification
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/95993cc26ac369be697a9e48fb9eec56a1f1da4c/ML_Projects/Income_Qualification.ipynb): A model to Identify the level of income qualification needed for the families in Latin America.
 
+	- [Voice_Classification
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Voice_Classification.ipynb):
+
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy_ 
 
 - ### Deep Learning
@@ -27,6 +30,12 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [Fuel_Efficiency
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Fuel_Efficiency.ipynb): Aim is to predict the output of a continuous value, like a price or a probability. Contrast this with a classification problem, where the aim is to select a class from a list of classes
+
+	- [Image Classification
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Image_Classification.ipynb): 
+
+	- [Multi_Classification_Iris_Keras
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Multi_Classification_Iris_Keras.ipynb):
 
 	_Tools: Keras, Tensorflow, Pytorch, NLTK, scikit_
 
