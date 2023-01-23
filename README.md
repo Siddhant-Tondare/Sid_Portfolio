@@ -1,11 +1,18 @@
 # Siddhant's Data Science Portfolio
+------------------------------------
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+
+![](https://komarev.com/ghpvc/?username=Siddhant-Tondare&label=PROFILE+VIEWS)
+
 
 #### MY Linked in Profile located [here](https://www.linkedin.com/in/siddhant-tondare-14285822a).
 
 #### The Tableau portfolio is located [here](https://public.tableau.com/app/profile/siddhant4987).
 
+* ✉️  You can contact me at [siddhanttondare@gmail.com](mailto:siddhanttondare@gmail.com)
+
+------------------------------------
 
 ## Contents
 
@@ -18,7 +25,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/95993cc26ac369be697a9e48fb9eec56a1f1da4c/ML_Projects/Income_Qualification.ipynb): A model to Identify the level of income qualification needed for the families in Latin America.
 
 	- [Voice_Classification
-](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Voice_Classification.ipynb):
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/ML_Projects/Voice_Classification.ipynb)
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy_ 
 
@@ -32,10 +39,10 @@ Repository containing portfolio of data science projects completed by me for aca
 ](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Fuel_Efficiency.ipynb): Aim is to predict the output of a continuous value, like a price or a probability. Contrast this with a classification problem, where the aim is to select a class from a list of classes
 
 	- [Image Classification
-](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Image_Classification.ipynb): 
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Image_Classification.ipynb) 
 
 	- [Multi_Classification_Iris_Keras
-](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Multi_Classification_Iris_Keras.ipynb):
+](https://github.com/Siddhant-Tondare/Sid_Portfolio/blob/main/Deep%20Learning%20Projects/Multi_Classification_Iris_Keras.ipynb)
 
 	_Tools: Keras, Tensorflow, Pytorch, NLTK, scikit_
 
