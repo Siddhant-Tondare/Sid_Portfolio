@@ -1,7 +1,9 @@
 # Siddhant's Data Science Portfolio
 ------------------------------------
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+## Data Scientist by day, Data Storyteller by night. Come explore my data science projects portfolio and uncover the stories hiding in the data!
+
+This is Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
 
 ![](https://komarev.com/ghpvc/?username=Siddhant-Tondare&label=PROFILE+VIEWS)
 
