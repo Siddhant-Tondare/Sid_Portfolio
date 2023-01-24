@@ -1,3 +1,5 @@
+### Hi there 👋 
+
 # Siddhant's Data Science Portfolio
 ------------------------------------
 
@@ -12,9 +14,12 @@ This is Repository containing portfolio of data science projects completed by me
 <p align="left"> <a href="https://www.github.com/Siddhant-Tondare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/siddhant-tondare-14285822a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://public.tableau.com/app/profile/siddhant4987" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32" height="32" /></a>
 
 	
-#### MY Linked in Profile located [here](https://www.linkedin.com/in/siddhant-tondare-14285822a).
+## ⭐ Star me on GitHub — it helps!
 
-#### The Tableau portfolio is located [here](https://public.tableau.com/app/profile/siddhant4987).
+
+### MY Linked in Profile  : <a href="https://www.linkedin.com/in/siddhant-tondare-14285822a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+
+### The Tableau portfolio  : <a href="https://public.tableau.com/app/profile/siddhant4987" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32" height="32" /></a>
 
 * ✉️  You can contact me at [siddhanttondare@gmail.com](mailto:siddhanttondare@gmail.com)
 
